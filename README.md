@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @weinandt
+- 👀 I’m interested in api development and montecarlo simulations
+- 📫 How to reach me: https://www.linkedin.com/in/nick-weinandt-aa667165
